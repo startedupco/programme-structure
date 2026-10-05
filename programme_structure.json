@@ -1,0 +1,72 @@
+{
+  "institution": "Lovedale TVET College",
+  "programme": {
+    "name": "Occupational Certificate: Solar Photovoltaic Standalone Installer",
+    "description": "Occupational qualification for installing standalone solar photovoltaic systems.",
+    "saqa_code": null,
+    "type": "OC",
+    "nqf_level": 4,
+    "faculty": null,
+    "duration": { "value": 12, "unit": "months" },
+    "credits": 360,
+    "attendance": ["full-time", "part-time"],
+    "campus": null,
+    "intake": []
+  },
+  "entry_requirements": {
+    "age": { "min": 16, "max": null },
+    "match": "any",
+    "options": [
+      {
+        "type": "grade",
+        "level": 11,
+        "aps": null,
+        "subjects": [
+          {
+            "compulsory": true,
+            "match": "any",
+            "choices": [
+              { "name": "Mathematics", "level": null, "percentage": null }
+            ]
+          },
+          {
+            "compulsory": true,
+            "match": "any",
+            "choices": [
+              { "name": "Physical Science", "level": null, "percentage": null }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ncv",
+        "level": 3,
+        "subjects": [
+          {
+            "compulsory": true,
+            "match": "any",
+            "choices": [
+              { "name": "English", "level": null, "percentage": 50 }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "abet",
+        "level": 4,
+        "subjects": [
+          {
+            "compulsory": true,
+            "match": "any",
+            "choices": [
+              { "name": "Communication in English", "level": 4, "percentage": null }
+            ]
+          }
+        ]
+      },
+      { "type": "nqf", "level": 3, "field": null },
+      { "type": "plp", "accepted": true },
+      { "type": "rpl", "accepted": true }
+    ]
+  }
+}

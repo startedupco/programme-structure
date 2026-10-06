@@ -1,0 +1,289 @@
+{
+  "institution": "Flavius Mareka TVET College",
+  "province": "Free State",
+  "source_files": ["FLAVIUS MAREKA TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 9,
+  "programmes": [
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 }, { "name": "Mathematical Literacy", "level": null, "percentage": 40 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 40% for Mathematics and Science.", "A failed Grade 12 is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted.", "Source places this course on the same application page as the Transport and Logistics listing (Kroonstad Campus)."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design (Fitting and Turning) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cyber Security Analyst Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 or pass NC(V) Level 4."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdresser",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 with Mathematics OR pass NC(V) Level 4 (Engineering)."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Career Development Officer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 or pass NC(V) Level 4."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "institution": "Mthashana TVET College",
+  "province": "KwaZulu-Natal",
+  "source_files": ["MTHASHANA TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 22,
+  "programmes": [
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2-4",
+        "description": "Covers all sciences around plant and animal production and nutrition as well as the economic impact thereof.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Agricultural Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2-4",
+        "description": "Covers tourism principles like tour guiding, tour operators and game rangers together with public relations related vocations in the tourism and hospitality industry.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Utility Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": "Provides students with theoretical and practical skills to operate as a cook, waitron or accommodation assistant in various hospitality establishments.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Utility Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["KwaGqikazi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "description": "Covers construction, masonry building and woodworking, design, drainage and sanitation in a practical, theoretical, management and design environment.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "An approved bridging programme designed for the specific purpose to access NQF Level 2 is also accepted."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": "Covers heavy current such as domestic, civil and industrial wiring and light current such as digital and communication electronics, sound engineering and instrumentation.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma", "Nquthu", "Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": "Covers all aspects of engineering design in the mechanical, geological and fabrication engineering fields.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": "Provides a structured programme for persons wishing to work as information technology support staff in public and private sector organisations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "An approved bridging programme designed for the specific purpose to access NQF Level 2 is also accepted."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": "Equips students with knowledge and skills for successful entry into an administrative secretarial field in any sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Vryheid", "KwaGqikazi", "Nquthu", "Maputa"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Intermediate Occupational Certificate: Meat Processing Operator Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 2,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Poultry Farmer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Higher Occupational Certificate: Mixed Crop and Livestock Farmer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 18, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Agriculture Science", "level": null, "percentage": null },
+                  { "name": "Applied Agriculture", "level": null, "percentage": null },
+                  { "name": "Agricultural Technology", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Agriculture Science", "level": null, "percentage": null },
+                  { "name": "Applied Agriculture", "level": null, "percentage": null },
+                  { "name": "Agricultural Technology", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "Related agricultural qualifications are also accepted as stated in the source."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Pest Management Officer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["eMandleni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Photovoltaic Service Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nquthu", "Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "NQF level not specified in the college source."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["KwaGqikazi", "Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 2,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["KwaGqikazi", "Nquthu", "Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Advanced Occupational Certificate: Retail Store Manager Level 6",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 6,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["KwaGqikazi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": [
+          "NQF level not specified in the college source."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma", "Nquthu", "Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "NQF level not specified in the college source.",
+          "Learner must be age 16 and over."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nongoma"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": [
+          "NQF level not specified in the college source.",
+          "NQF Level 3 must be equivalent to the N2 knowledge areas of Engineering Mathematics, Science and Building Drawing."
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nquthu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Vryheid"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

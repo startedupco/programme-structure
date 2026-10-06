@@ -1,0 +1,489 @@
+{
+  "institution": "Eastcape Midlands TVET College",
+  "province": "Eastern Cape",
+  "source_files": ["Eastern Cape   EASTCAPE MIDLANDS TVET.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 19,
+  "programmes": [
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Sales Assistant (General) (Retail Sales Advisor) Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Wholesale and Retail",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Photovoltaic Service Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Electrical Infrastructure Construction",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Subjects", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Infrastructure Construction", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 12 with Mathematics must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Early Childhood Development",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus", "Graaff-Reinet Campus", "Grahamstown Campus", "Heath Park Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with 40% English must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Millwright Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Millwright Trade",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical", "level": null, "percentage": null }, { "name": "Mechanical", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Infrastructure Construction", "level": null, "percentage": null }, { "name": "Engineering and Related Design", "level": null, "percentage": null } ] } ] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with Mathematics must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Electrical Infrastructure Construction",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Infrastructure Construction", "level": null, "percentage": null } ] } ] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with Mathematics must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechanical Fitter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Manufacturing, Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Trade Theory", "level": null, "percentage": null }, { "name": "Electrical", "level": null, "percentage": null }, { "name": "Mechanical", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Engineering and Related Design", "level": null, "percentage": null }, { "name": "Fitting", "level": null, "percentage": null } ] } ] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with Mathematics must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Marketing Coordinator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Marketing",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus", "Heath Park Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Marketing", "level": null, "percentage": null }, { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Manufacturing and Assembly",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Motor Trade", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Engineering and Related Design", "level": null, "percentage": null } ] } ] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with Mathematics must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Manufacturing and Assembly",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Infrastructure Construction", "level": null, "percentage": null } ] } ] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with Mathematics must also be met.", "The N3 may be in any trade."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Higher Occupational Certificate: Human Resource Management Administrator",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": "Human Resources Management",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Graaff-Reinet Campus", "Heath Park Campus", "Thanduxolo Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] }
+            ] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Management Assistant",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Graaff-Reinet Campus", "Grahamstown Campus", "Heath Park Campus", "Thanduxolo Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["The Graaff-Reinet campus entry does not include the 'with Finance' condition on the NCV Level 4 option."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Finance, Economics and Accounting",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Grahamstown Campus", "Heath Park Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tourist Information Officer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": "Tourism",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Grahamstown Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] }
+            ] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Retail Buyer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Wholesale and Retail",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["High Street Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Marketing", "level": null, "percentage": null }, { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "National Occupational Certificate: Retail Supervisor Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Wholesale and Retail",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["High Street Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Minimum requirement: Grade 9 with 40% English must also be met."]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Information Technology and Computer Science",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Park Avenue Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Information Technology", "level": null, "percentage": null }, { "name": "Computer Science", "level": null, "percentage": null } ] }
+            ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Information Technology", "level": null, "percentage": null }, { "name": "Computer Science", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Supervisor Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Office Administration",
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus", "Thanduxolo Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Marketing", "level": null, "percentage": null }, { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Conference and Events Organiser",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": "Hospitality",
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Graaff-Reinet Campus", "High Street Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Commerce", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Finance", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechatronics Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Manufacturing, Engineering",
+        "duration": { "value": 48, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Brickfields Road Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Electrical Subjects", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Engineering and Related Design", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Minimum requirement: Grade 12 with Mathematics must also be met."]
+      }
+    }
+  ]
+}

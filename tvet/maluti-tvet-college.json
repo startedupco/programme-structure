@@ -1,0 +1,153 @@
+{
+  "institution": "Maluti TVET College",
+  "province": "Free State",
+  "source_files": ["MALUTI TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 6,
+  "programmes": [
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering Construction (Masonry) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Civil Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering Carpentry Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Civil Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Electrical Infrastructure",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Renewable Energy Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Electrical Infrastructure",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Fitting and Turning Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering and Related Design",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Maluti TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Welding Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering and Related Design",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Itemoheleng"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

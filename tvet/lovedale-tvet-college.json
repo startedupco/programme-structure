@@ -1,0 +1,448 @@
+{
+  "institution": "Lovedale TVET College",
+  "province": "Eastern Cape",
+  "source_files": ["LOVEDALE TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 16,
+  "programmes": [
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Alice Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Agricultural Sciences", "level": null, "percentage": 40 }, { "name": "Life Sciences", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematical Literacy", "level": null, "percentage": 40 }, { "name": "Mathematics", "level": null, "percentage": 35 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: only Grades 9, 10 and 11."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 35 }, { "name": "Mathematical Literacy", "level": null, "percentage": 40 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: only Grades 9, 10 and 11."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Poultry Farmer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Alice Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Agricultural Sciences", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: Primary Agriculture Level 4 OR a Grade 12 equivalent qualification with Agriculture as a compulsory subject."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 4 with Mathematics Literacy."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Small Business Consultant",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 4 with Numeracy and Communications."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: NQF level 4."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Small Retail Business Owner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 3."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 4 with Communication."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 4 with Mathematics Literacy."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Procurement Officer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: for those learners who have a Grade 12 certificate."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Project Manager",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["King Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: for those learners who have a Grade 12 certificate."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 3 with Mathematics and Science or technical subjects."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpenter",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 3."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician (Year 1)",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: Grade 11 with Mathematics."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          {
+            "type": "ncv",
+            "level": 2,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          {
+            "type": "nated",
+            "level": "N1",
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: Grade 10 / NCV L2 / N1 with Mathematics and Science."]
+      }
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Zwelitsha Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null }
+        ],
+        "notes": ["Source states: NQF Level 3 equivalent to N2 knowledge areas of Engineering Mathematics and Science, and Building Drawing."]
+      }
+    }
+  ]
+}

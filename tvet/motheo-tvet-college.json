@@ -1,0 +1,1865 @@
+{
+  "institution": "Motheo TVET College",
+  "province": "Free State",
+  "source_files": ["MOTHEO TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 76,
+  "programmes": [
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Returning students only.", "Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Returning students only.", "Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Returning students only.", "Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Returning students only.", "Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Education and Development Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Educare",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Returning students only.", "Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Education and Development Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Educare",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Education and Development Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Educare",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada", "Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Hospitality",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Hospitality",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Hospitality",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Tourism",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Tourism",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Tourism",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2 (Electrical Systems and Construction)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2 (Renewable Energy)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3 (Electrical Systems and Construction)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3 (Renewable Energy)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4 (Electrical Systems and Construction)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4 (Renewable Energy)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2 (Software)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Information Technology",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 3 (Software)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Information Technology",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 4 (Software)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Information Technology",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2 (Fitting)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2 (Welding)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2 (Automotive)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3 (Fitting)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3 (Welding)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3 (Automotive)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4 (Fitting)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4 (Welding)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4 (Automotive)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Mechanical Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2 (Robotics)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Robotics",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 4 (Robotics)",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Robotics",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Agriculture",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Plot 32"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Agriculture",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Plot 32"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Agriculture",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Plot 32"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Civil Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Civil Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Civil Engineering",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Heavy Current",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Thaba'nchu Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Beauty Therapist Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpentry Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Building Construction",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N2", "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4 (COS)",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Electrical Infrastructure Construction",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N2", "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cloud Administrator Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Information Technology",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Internet-of-Things Developer Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Information Technology",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Conference and Events Organiser",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Business Related Subjects", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nada Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N2", "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Marketing Coordinator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada", "Koffiefontein Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Business Related Subjects", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Project Manager Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Business Related Subjects", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Supply Chain Practitioner Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Business Related Subjects", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Office Administration",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bloemfontein & Nada", "Koffiefontein Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Business Related Subjects", "level": null, "percentage": null } ] }
+            ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Panel Beater",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": "Engineering and Related Design",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 2, "field": null },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["NQF Level 1 must include Mathematics."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Furniture Upholsterer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": ["RPL route: 3 years of relevant experience."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Vehicle Painter",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["NQF Level 1 must include Mathematics."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Koffiefontein Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Skills: Major Domestic Appliance Repairer",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 2, "field": null }
+        ],
+        "notes": ["NQF Level 2 must include Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Occupational Skills: Small Domestic Appliance Repairer",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 2, "field": null }
+        ],
+        "notes": ["NQF Level 2 must include Mathematics."]
+      }
+    },
+    {
+      "institution": "Motheo TVET College",
+      "programme": {
+        "name": "Skills Programme: Workshop Tool Assistant Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Hillside View Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null }
+        ]
+      }
+    }
+  ]
+}

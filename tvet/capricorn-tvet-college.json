@@ -1,0 +1,822 @@
+{
+  "institution": "Capricorn TVET College",
+  "province": "Limpopo",
+  "source_files": ["CAPRICORN TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 33,
+  "programmes": [
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Mechatronics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "General and Utility Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "General and Utility Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "General and Utility Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Farming",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Senwabarwana Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdresser",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechatronics Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Polokwane Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpenter",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Seshego Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Seshego Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Seshego Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirements are NQF level 3 or passed Grade 11."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Trade",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Seshego Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: minimum requirements are NQF level 1 or passed Grade 9 Maths and Science."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner Trade",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Seshego Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: minimum requirements are NQF level 1 or passed Grade 9 with Maths."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Process Plant Operations Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Drawing Office Practice Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National N Diploma: Educare N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "General and Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National N Diploma: Tourism N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "General and Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National N Diploma: Hospitality N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "General and Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate: Mechanical Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate: Civil Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "programme": {
+        "name": "National Certificate: Laboratory Assistant/Chemical Plant Operations N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "updated": "2026-10-06",
+  "college_count": 25,
+  "programme_count": 756,
+  "colleges": [
+    {
+      "institution": "Boland TVET College",
+      "province": "Western Cape",
+      "file": "tvet/boland-tvet-college.json",
+      "programme_count": 18,
+      "types": {
+        "OC": 12,
+        "NCV": 6
+      },
+      "source_files": [
+        "bolandtvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Capricorn TVET College",
+      "province": "Limpopo",
+      "file": "tvet/capricorn-tvet-college.json",
+      "programme_count": 33,
+      "types": {
+        "NCV": 17,
+        "OC": 9,
+        "NATED": 7
+      },
+      "source_files": [
+        "CAPRICORN TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Eastcape Midlands TVET College",
+      "province": "Eastern Cape",
+      "file": "tvet/eastcape-midlands-tvet-college.json",
+      "programme_count": 19,
+      "types": {
+        "OC": 19
+      },
+      "source_files": [
+        "Eastern Cape   EASTCAPE MIDLANDS TVET.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "province": "Mpumalanga",
+      "file": "tvet/ehlanzeni-tvet-college.json",
+      "programme_count": 66,
+      "types": {
+        "NCV": 27,
+        "OC": 28,
+        "SKILLS": 11
+      },
+      "source_files": [
+        "Ehlanzeni tvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Elangeni TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/elangeni-tvet-college.json",
+      "programme_count": 1,
+      "types": {
+        "NCV": 1
+      },
+      "source_files": [
+        "ELANGENI TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "province": "Free State",
+      "file": "tvet/flavius-mareka-tvet-college.json",
+      "programme_count": 9,
+      "types": {
+        "NCV": 5,
+        "OC": 4
+      },
+      "source_files": [
+        "FLAVIUS MAREKA TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "province": "Mpumalanga",
+      "file": "tvet/gert-sibande-tvet-college.json",
+      "programme_count": 29,
+      "types": {
+        "NCV": 23,
+        "NATED": 6
+      },
+      "source_files": [
+        "Gert Sibande TVET College.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Letaba TVET College",
+      "province": "Limpopo",
+      "file": "tvet/letaba-tvet-college.json",
+      "programme_count": 17,
+      "types": {
+        "NCV": 8,
+        "NATED": 6,
+        "SKILLS": 3
+      },
+      "source_files": [
+        "letcol tvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Lovedale TVET College",
+      "province": "Eastern Cape",
+      "file": "tvet/lovedale-tvet-college.json",
+      "programme_count": 16,
+      "types": {
+        "NCV": 2,
+        "OC": 14
+      },
+      "source_files": [
+        "LOVEDALE TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Majuba TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/majuba-tvet-college.json",
+      "programme_count": 50,
+      "types": {
+        "NCV": 21,
+        "OC": 11,
+        "SKILLS": 6,
+        "APPRENTICESHIP": 7,
+        "NATED": 5
+      },
+      "source_files": [
+        "majuba tvet college.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Maluti TVET College",
+      "province": "Free State",
+      "file": "tvet/maluti-tvet-college.json",
+      "programme_count": 6,
+      "types": {
+        "NCV": 6
+      },
+      "source_files": [
+        "MALUTI TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Mnambithi TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/mnambithi-tvet-college.json",
+      "programme_count": 41,
+      "types": {
+        "OTHER": 1,
+        "NCV": 9,
+        "NATED": 8,
+        "OC": 16,
+        "SKILLS": 4,
+        "APPRENTICESHIP": 3
+      },
+      "source_files": [
+        "MNAMBITHI TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Mopani TVET College",
+      "province": "Limpopo",
+      "file": "tvet/mopani-tvet-college.json",
+      "programme_count": 39,
+      "types": {
+        "OC": 19,
+        "NCV": 10,
+        "NATED": 9,
+        "OTHER": 1
+      },
+      "source_files": [
+        "Mopani TVET College.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Motheo TVET College",
+      "province": "Free State",
+      "file": "tvet/motheo-tvet-college.json",
+      "programme_count": 76,
+      "types": {
+        "NCV": 56,
+        "OC": 17,
+        "SKILLS": 3
+      },
+      "source_files": [
+        "MOTHEO TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Mthashana TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/mthashana-tvet-college.json",
+      "programme_count": 22,
+      "types": {
+        "NCV": 8,
+        "OC": 14
+      },
+      "source_files": [
+        "MTHASHANA TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "province": "Mpumalanga",
+      "file": "tvet/nkangala-tvet-college.json",
+      "programme_count": 45,
+      "types": {
+        "NCV": 13,
+        "NATED": 9,
+        "OTHER": 1,
+        "OC": 22
+      },
+      "source_files": [
+        "Nkangala TVET College.txt",
+        "We offer the following NCV Programm.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "province": "Northern Cape",
+      "file": "tvet/northern-cape-rural-tvet-college.json",
+      "programme_count": 18,
+      "types": {
+        "NCV": 7,
+        "OC": 11
+      },
+      "source_files": [
+        "Northern Cape Rural TVET College.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "province": "Northern Cape",
+      "file": "tvet/northern-cape-urban-tvet-college.json",
+      "programme_count": 24,
+      "types": {
+        "NCV": 15,
+        "APPRENTICESHIP": 4,
+        "SKILLS": 5
+      },
+      "source_files": [
+        "Northern Cape Urban TVET colleg.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Orbit TVET College",
+      "province": "North West",
+      "file": "tvet/orbit-tvet-college.json",
+      "programme_count": 31,
+      "types": {
+        "NCV": 30,
+        "OTHER": 1
+      },
+      "source_files": [
+        "orbit tvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Taletso TVET College",
+      "province": "North West",
+      "file": "tvet/taletso-tvet-college.json",
+      "programme_count": 32,
+      "types": {
+        "NCV": 10,
+        "NATED": 4,
+        "OC": 18
+      },
+      "source_files": [
+        "taletso tvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/thekwini-tvet-college.json",
+      "programme_count": 42,
+      "types": {
+        "OC": 13,
+        "NCV": 7,
+        "NATED": 11,
+        "OTHER": 4,
+        "SKILLS": 7
+      },
+      "source_files": [
+        "THEKWINI TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "province": "KwaZulu-Natal",
+      "file": "tvet/umfolozi-tvet-college.json",
+      "programme_count": 51,
+      "types": {
+        "NCV": 17,
+        "OC": 24,
+        "SKILLS": 2,
+        "APPRENTICESHIP": 8
+      },
+      "source_files": [
+        "UMFOLOZI TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "province": "Limpopo",
+      "file": "tvet/vhembe-tvet-college.json",
+      "programme_count": 27,
+      "types": {
+        "NCV": 14,
+        "NATED": 13
+      },
+      "source_files": [
+        "VHEMBE TVET COLLEGE.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "province": "North West",
+      "file": "tvet/vuselela-tvet-college.json",
+      "programme_count": 30,
+      "types": {
+        "NCV": 6,
+        "OC": 24
+      },
+      "source_files": [
+        "vuselela tvet.txt"
+      ],
+      "updated": "2026-10-06"
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "province": "Limpopo",
+      "file": "tvet/waterberg-tvet-college.json",
+      "programme_count": 14,
+      "types": {
+        "NCV": 10,
+        "OC": 4
+      },
+      "source_files": [
+        "waterbergcollege.txt"
+      ],
+      "updated": "2026-10-06"
+    }
+  ]
+}
